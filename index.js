@@ -21,7 +21,7 @@ const wat = 55.1*/
 /*const daysOfWeek = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
 console.log(daysOfWeek[0]);*/
 
-const taekInfo = {
+/*const taekInfo = {
   name: "TAEK",
   age: 3000,
   gender: "Male",
@@ -32,4 +32,10 @@ const taekInfo = {
     { name: "Meat", fatty: true },
   ],
 };
-console.log(taekInfo.favFoods[1].name);
+console.log(taekInfo.favFoods[1].name);*/
+
+function sayHello() {
+  console.log("Hello!");
+}
+
+sayHello();
